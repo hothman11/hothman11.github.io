@@ -10,7 +10,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #e4b4c2	;
+  background: #bb8796	;
 }
 /* Link Styles */
 
@@ -88,7 +88,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background: #a10022;
+  background: #bb8796;
   color: #fff;
 }
 
